@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /References/
+
+Sitemap: https://beautifiedesthetics.com/sitemap.xml
